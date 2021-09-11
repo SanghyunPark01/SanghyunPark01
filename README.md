@@ -1,7 +1,6 @@
-## Hi there 👋
-### I'm Sanghyun Park  
-  
-:mag_right: **I'm interested in** 
+## 👋 Hi there, I'm Sanghyun Park
+
+### :mag_right: **I'm interested in** 
 > :one: **Artificial Intelligence**  
 > :two: **Computer Vision**  
 > :three: **Autonomous Driving**  
