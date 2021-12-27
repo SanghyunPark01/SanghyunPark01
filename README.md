@@ -4,6 +4,7 @@
 > :one: **Artificial Intelligence**  
 > :two: **Computer Vision**  
 > :three: **Autonomous Driving**  
+> :four: **SLAM**
 <h3 align=center>
 :raising_hand: About me  
 </h3>
