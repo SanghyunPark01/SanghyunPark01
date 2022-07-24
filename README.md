@@ -1,11 +1,10 @@
 ## 👋 Hi there, I'm Sanghyun Park
 
 ### :mag_right: **I'm interested in** 
-> :one: **Autonomous Driving**  
-> :two: **Sensor Fusion**  
-> :three: **Computer Vision**  
-> :four: **SLAM**  
-> :five: **Artificial Intelligence**
+> :one: **Visual SLAM**  
+> :two: **Mobile Robot**   
+> :three: **Sensor Fusion**  
+> :four: **Artificial Intelligence**  
 <h3 align=center>
 :raising_hand: About me  
 </h3>
