@@ -3,7 +3,7 @@
 ### :mag_right: **I'm interested in** 
 > :one: **Visual SLAM**  
 > :two: **Mobile Robot**   
-> :three: **Sensor Fusion**  
+> :three: **Visual Perception**  
 > :four: **Artificial Intelligence**  
 <h3 align=center>
 :raising_hand: About me  
