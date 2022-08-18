@@ -4,7 +4,7 @@
 > :one: **Visual SLAM**  
 > :two: **Mobile Robot**   
 > :three: **Visual Perception**  
-> :four: **Artificial Intelligence**  
+> :four: **Sky Road System - Drone traffic control**  
 <h3 align=center>
 :raising_hand: About me  
 </h3>
@@ -14,6 +14,7 @@
 [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sanghyunpark01.github.io/)](https://sanghyunpark01.github.io/)
 [![Naver Mail Badge](https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:pash0302@naver.com)](mailto:pash0302@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pash0302@gmail.com)](mailto:pash0302@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%83%81%ED%98%84-%EB%B0%95-02bbb4247/)](https://www.linkedin.com/in/%EC%83%81%ED%98%84-%EB%B0%95-02bbb4247/)
 </div>
 
 ---
