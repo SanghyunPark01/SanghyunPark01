@@ -3,7 +3,7 @@
 ### :mag_right: **I'm interested in** 
 > :one: **Visual SLAM**  
 > :two: **Mobile Robot**   
-> :three: **Visual Perception**  
+> :three: **Computer Vision**  
 > :four: **Sky Road System - Drone traffic control**  
 <h3 align=center>
 :raising_hand: About me  
