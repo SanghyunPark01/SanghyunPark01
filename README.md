@@ -26,7 +26,7 @@
 </h3>
 <div align=center>
   
-[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://github.com/SanghyunPark01/SanghyunPark_CV/blob/main/CV.pdf)](https://github.com/SanghyunPark01/SanghyunPark_CV/blob/main/CV.pdf)
+[![CV](http://img.shields.io/badge/-CV-black?style=flat-square&logo=github&link=https://github.com/SanghyunPark01/SanghyunPark_CV/blob/main/CV.pdf)](https://github.com/SanghyunPark01/SanghyunPark_CV/blob/main/CV_0913.pdf)
 [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sanghyunpark01.github.io/)](https://sanghyunpark01.github.io/)
 [![Naver Mail Badge](https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:pash0302@naver.com)](mailto:pash0302@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pash0302@gmail.com)](mailto:pash0302@gmail.com)
