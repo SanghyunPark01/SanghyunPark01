@@ -5,7 +5,7 @@
 > :two: **Autonomous Driving System**   
 > :three: **Computer Vision**  
 > :four: **Mobile Robot**
-
+---
 ### 👨‍🎓: **Eduation & Work Experience**
 #### 🏫 Eduation  
 - **POSTECH(Expected)**  
@@ -20,7 +20,7 @@
 - **Robotics & A.I. LAB @KW Univ.**  
    Undergraduate Lab Intern (2021.12 ~ 2022.08)  
   Studying Visual SLAM & Computer Vision
-
+---
 <h3 align=center>
 :raising_hand: About me  
 </h3>
