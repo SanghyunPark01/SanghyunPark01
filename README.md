@@ -4,7 +4,23 @@
 > :one: **Perception - Visual SLAM, Object Detection, Sensor Fusion**  
 > :two: **Autonomous Driving System**   
 > :three: **Computer Vision**  
-> :four: **Mobile Robot**  
+> :four: **Mobile Robot**
+
+### 👨‍🎓: **Eduation & Work Experience**
+#### 🏫 Eduation  
+- **POSTECH(Expected)**  
+  M.S. in Department of Convergence IT Engineering (2024.02 ~ )
+- **KwangWoon Univ.**  
+  B.S. in School of Robotics (2020.03 ~ 2024.02)
+#### 🏫 Work Experience  
+- **Urban Robotics LAB @KAIST**  
+  Undergraduate Lab Intern  (2023.07 ~ 2023.12)  
+  Research on Fusion-SLAM for Mobinn Mobile Robot
+  * Visual - Inertial SLAM
+- **Robotics & A.I. LAB @KW Univ.**  
+   Undergraduate Lab Intern (2021.12 ~ 2022.08)  
+  Studying Visual SLAM & Computer Vision
+
 <h3 align=center>
 :raising_hand: About me  
 </h3>
@@ -21,13 +37,13 @@
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSanghyunPark01&count_bg=%235D81E7&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-[![SanghyunPark01's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanghyunPark01)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![SanghyunPark01's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanghyunPark01)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanghyunPark01)](https://github.com/SanghyunPark01/github-readme-stats)
+<!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pash0302)](https://solved.ac/pash0302)   <img src="http://mazandi.herokuapp.com/api?handle=pash0302&theme=warm"/> 
+-->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanghyunPark01)](https://github.com/SanghyunPark01/github-readme-stats)
+
 
 </div>
 
