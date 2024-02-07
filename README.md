@@ -8,7 +8,7 @@
 ---
 ### 👨‍🎓: **Eduation & Work Experience**
 #### 🏫 Eduation  
-- **POSTECH(Expected)**  
+- **POSTECH**  
   M.S. in Department of Convergence IT Engineering (2024.02 ~ )
 - **KwangWoon Univ.**  
   B.S. in School of Robotics (2020.03 ~ 2024.02)
