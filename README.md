@@ -16,7 +16,9 @@
 - **Urban Robotics LAB @KAIST**  
   Undergraduate Lab Intern  (2023.07 ~ 2023.12)  
   Research on Fusion-SLAM for Mobinn Mobile Robot
-  * Visual - Inertial SLAM
+  * What I did
+    * Visual - Inertial Odometry
+    * Visual - LiDAR LoopClosure
 - **Robotics & A.I. LAB @KW Univ.**  
    Undergraduate Lab Intern (2021.12 ~ 2022.08)  
   Studying Visual SLAM & Computer Vision
