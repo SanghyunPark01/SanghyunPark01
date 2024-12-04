@@ -1,10 +1,9 @@
 ## 👋 Hi there, I'm Sanghyun Park
 
 ### :mag_right: **I'm interested in** 
-> :one: **Perception - Visual SLAM, Object Detection, Sensor Fusion**  
-> :two: **Autonomous Driving System**   
-> :three: **Computer Vision**  
-> :four: **Mobile Robot**
+> :one: **Robotics Perception - Visual SLAM, Sensor Fusion**  
+> :two: **Spatial A.I.**   
+> :three: **Autonomous Driving System**  
 ---
 ### 👨‍🎓: **Eduation & Work Experience**
 #### 🏫 Eduation  
