@@ -9,7 +9,8 @@
 #### 🏫 Eduation  
 - **POSTECH**  
   M.S. in Department of Convergence IT Engineering (2024.02 ~ )  
-  Lab: [CoCEL(Computational Control Engineering Lab)](https://www.youtube.com/@cocel-postech)
+  Lab: [CoCEL(Computational Control Engineering Lab)](https://cocel.postech.ac.kr/)  
+  More info about our Lab: [YouTube](https://www.youtube.com/@cocel-postech) [GitHub](https://github.com/cocel-postech)  
 - **KwangWoon Univ.**  
   B.S. in School of Robotics (2020.03 ~ 2024.02)
 #### 🏫 Work Experience  
