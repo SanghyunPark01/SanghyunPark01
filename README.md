@@ -41,7 +41,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSanghyunPark01&count_bg=%235D81E7&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![SanghyunPark01's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanghyunPark01)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanghyunPark01)](https://github.com/SanghyunPark01/github-readme-stats)
+[![SanghyunPark01's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanghyunPark01&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanghyunPark01&layout=compact&theme=dracula)
 <!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pash0302)](https://solved.ac/pash0302)   <img src="http://mazandi.herokuapp.com/api?handle=pash0302&theme=warm"/> 
 -->
