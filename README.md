@@ -2,8 +2,8 @@
 
 ### :mag_right: **I'm interested in** 
 > :one: **Robotics Perception - Visual SLAM, Sensor Fusion**  
-> :two: **Spatial A.I.**   
-> :three: **Autonomous Driving System**  
+> :two: **Physical A.I.**   
+> :three: **Autonomous Robot Navigation**  
 ---
 ### 👨‍🎓: **Eduation & Work Experience**
 #### 🏫 Eduation  
